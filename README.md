@@ -1,6 +1,6 @@
 <img width="791" height="627" alt="image" src="https://github.com/user-attachments/assets/9272365f-85b8-47b0-a9fb-e22002950fcf" />
 
-Deployed Link https://blogfrontend-ecru.vercel.app/blogs
+Deployed Link [https://blog-microservice-sage.vercel.app/blogs]
 
 
 
